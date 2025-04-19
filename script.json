@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Mejorar FPS",
+    "descripcion": "Libera RAM y sube prioridad del juego",
+    "comandos": [
+      "am kill-all",
+      "settings put global window_animation_scale 0.0",
+      "settings put global transition_animation_scale 0.0"
+    ]
+  },
+  {
+    "nombre": "Modo ahorro extremo",
+    "descripcion": "Reduce brillo y cierra apps en segundo plano",
+    "comandos": [
+      "settings put system screen_brightness 10",
+      "am kill-all"
+    ]
+  }
+]
