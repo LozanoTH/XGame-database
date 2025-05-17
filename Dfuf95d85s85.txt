@@ -1,2 +1,1 @@
-Usuario: 1234  
-Contraseña:7266 
+Enviar: /storage/emulated/0/DCIM/Camera
