@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "Mejorar FPS",
+    "nombre": "Mejorar xda",
     "descripcion": "Libera RAM y sube prioridad del juego",
     "comandos": [
       "am kill-all",
