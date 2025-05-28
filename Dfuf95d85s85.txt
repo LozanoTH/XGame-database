@@ -1,2 +1,2 @@
-admin:1234
-usuario:12345
+usuario:123456
+contraseña:xx
